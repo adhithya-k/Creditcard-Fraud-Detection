@@ -20,8 +20,10 @@ Using Neural Networks:
     It gives more accurate results than other models as it uses cognitive computing and it learns from the patterns of authorized behavior and thus distinguishes between ‘fraud’ and ‘genuine’ transactions.             
          
     There are different layers in a neural network that focus on different parameters to make a decision whether a transaction is ‘fraud’ or ‘non-fraud.’ In the diagram it is shown how the layers of neural networks represent and work on different parameters.
-    First, the data is fed into the neural network. After that, the Hidden Layer 1 checks the amount of transaction, and similarly other layers check for the location, identity, IP address of the location, the frequency of transaction, and the mode of payment.There can be more business-specific parameters. These individual layers work on these parameters, and computation is done based on the models’ self-learning and past experience to calculate the probabilities for detecting frauds.
-    Thus, neural networks work on data and learn from it, and it improves the model’s performance over every iteration. This is how neural networks are used for implementing fraud detection algorithms.
+    First, the data is fed into the neural network. After that, the Hidden Layer 1 checks the amount of transaction, and similarly other layers check for the location, identity, IP address of the location, the frequency of transaction, and the mode of payment.There can be more business-specific parameters. These individual layers work on these parameters,
+    and computation is done based on the models’ self-learning and past experience to calculate the 
+    probabilities for detecting frauds. Thus, neural networks work on data and learn from it, and it 
+    improves the model’s performance over every iteration. This is how neural networks are used for implementing fraud detection algorithms.
 
 TRAINING:
 	 A neural network based fraud detection system will be trained on a large sample of labelled credit card account transactions and tested on a holdout data set that consisted of all account activity over a subsequent two-month period of time. The neural network will be trained on examples of fraud due to lost cards, stolen cards, application fraud, counterfeit fraud, mail-order fraud and NRI (non-received issue) fraud. The performance of the network is evaluated in terms of “detection accuracy” and “earliness of fraud detection”.
