@@ -1,12 +1,10 @@
 CREDIT CARD FRAUD DETECTION
 
 NEED:
-
     For years, fraud has been a major issue in sectors like banking, medical, insurance, and many others. Due to the increase in online
     transactions through different payment options, such as credit/debit cards, PhonePe, Gpay, Paytm, etc., fraudulent activities have
-     also increased. Moreover, fraudsters or criminals have become very skilled in finding escapes so that they can loot more. 
-    Since no system is perfect and there is always a loophole in them, it has become a challenging task to make a secure system for
-     authentication and preventing customers from fraud.  So, Fraud detection algorithms are very useful for preventing frauds.
+    also increased. Moreover, fraudsters or criminals have become very skilled in finding escapes so that they can loot more.Since no system is perfect and there is always a loophole in them, it has become a challenging task to make a secure system for
+    authentication and preventing customers from fraud.  So, Fraud detection algorithms are very useful for preventing frauds.
 
 ROLE OF MACHINE LEARNING:
 
