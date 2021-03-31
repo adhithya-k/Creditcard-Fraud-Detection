@@ -20,8 +20,7 @@ Using Neural Networks:
     It gives more accurate results than other models as it uses cognitive computing and it learns from the patterns of authorized behavior and thus distinguishes between ‘fraud’ and ‘genuine’ transactions.             
          
     There are different layers in a neural network that focus on different parameters to make a decision whether a transaction is ‘fraud’ or ‘non-fraud.’ In the diagram it is shown how the layers of neural networks represent and work on different parameters.
-    First, the data is fed into the neural network. After that, the Hidden Layer 1 checks the amount of transaction, and similarly other layers check for the location, identity, IP address of the location, the frequency of transaction, and the mode of payment.
-    There can be more business-specific parameters. These individual layers work on these parameters, and computation is done based on the models’ self-learning and past experience to calculate the probabilities for detecting frauds.
+    First, the data is fed into the neural network. After that, the Hidden Layer 1 checks the amount of transaction, and similarly other layers check for the location, identity, IP address of the location, the frequency of transaction, and the mode of payment.There can be more business-specific parameters. These individual layers work on these parameters, and computation is done based on the models’ self-learning and past experience to calculate the probabilities for detecting frauds.
     Thus, neural networks work on data and learn from it, and it improves the model’s performance over every iteration. This is how neural networks are used for implementing fraud detection algorithms.
 
 TRAINING:
